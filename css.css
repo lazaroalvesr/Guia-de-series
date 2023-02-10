@@ -511,4 +511,64 @@ footer {
     footer{
         width: 900px;
     }
+    #dead {
+        height: 75em;
+        width: 37em;
+    }
+
+    #dead p {
+        width: 599px;
+        right: 30em;
+        font-size: 37px;
+        top: 8em;
+    }
+
+    #dead img {
+        bottom: 42em;
+        width: 578px;
+        right: 6px;
+    }
+
+    #dead button {
+        right: 67em;
+        top: 2em;
+    }
+
+    #dead h2 {
+        text-align: center;
+    }
+
+    .Long {
+        height: 75em;
+        width: 37em;
+        left: 38em;
+        bottom: 25.7em;
+    }
+
+    .Long #log {
+        left: 1em;
+    }
+
+    .Long p {
+        right: 29.8em;
+        font-size: 37px;
+        width: 580px;
+        top: 7.7em;
+    }
+
+    .Long #log2 {
+        position: absolute;
+        width: 579px;
+        bottom: 48em;
+        right: 5px;
+    }
+
+    .Long .net {
+        right: 37em;
+        top: 25em;
+    }
+    .Long .star{
+        right: 58em;
+        top: 23em;
+    }
 }
