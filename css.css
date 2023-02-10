@@ -539,7 +539,7 @@ footer {
     }
 
     .Long {
-        height: 85em;
+        height: 95em;
         width: 50em;
         left: 51em;
         bottom: 25.7em;
@@ -560,7 +560,7 @@ footer {
         position: absolute;
         width: 579px;
         bottom: 57em;
-        right: 5px;
+        right: 129px;
     }
 
     .Long .net {
