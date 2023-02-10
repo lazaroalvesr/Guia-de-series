@@ -536,6 +536,8 @@ footer {
 
     #dead h2 {
         text-align: center;
+  font-size: 39px;
+
     }
 
    .Long {
@@ -547,6 +549,8 @@ footer {
 
     .Long #log {
         left: 1em;
+      font-size: 39px;
+
     }
 
     .Long p {
@@ -559,7 +563,7 @@ footer {
     .Long #log2 {
         position: absolute;
         width: 579px;
-        bottom: 70em;
+        bottom: 71em;
         right: 129px;
     }
 
