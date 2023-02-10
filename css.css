@@ -550,10 +550,10 @@ footer {
     }
 
     .Long p {
-        right: 29.8em;
-        font-size: 37px;
-        width: 580px;
-        top: 7.7em;
+       right: 29.8em;
+        font-size: 47px;
+        width: 780px;
+        top: 6em;
     }
 
     .Long #log2 {
@@ -565,7 +565,10 @@ footer {
 
     .Long .net {
         right: 37em;
-        top: 25em;
+        top: 8em;
+        font-size: 37px;
+        width: 240px;
+        height: 40px;
     }
     .Long .star{
         right: 58em;
