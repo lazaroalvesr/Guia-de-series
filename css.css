@@ -508,4 +508,7 @@ footer {
         text-align: center;
         padding-left: 5em;
     }
+    footer{
+        width: 900px;
+    }
 }
