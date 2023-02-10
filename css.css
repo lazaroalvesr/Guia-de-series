@@ -1,0 +1,511 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #fff;
+}
+
+h1 {
+    text-align: center;
+    font-size: 59px;
+}
+
+#perfil {
+    padding-top: 18px;
+    width: 520px;
+    margin-left: 25em;
+}
+
+#dead {
+    margin-top: 19px;
+    position: absolute;
+    border: 2px solid black;
+    padding-top: 9em;
+    width: 83em;
+    margin-left: 12px;
+    height: 25em;
+    border-radius: 12px;
+}
+
+#dead h2 {
+    bottom: 130px;
+    font-size: 26px;
+    margin-left: 12px;
+    position: relative;
+}
+
+#dead img {
+    bottom: 23em;
+    width: 530px;
+    margin-left: 12px;
+    position: relative;
+    border-radius: 4px;
+}
+
+#dead p {
+    width: 450px;
+    margin-left: 30em;
+    bottom: 5em;
+    position: relative;
+    font-size: 20px;
+}
+
+.linha1 {
+    border: 2px solid rgb(5, 5, 4);
+}
+
+#dead button {
+    color: #fff;
+    background: blue;
+    margin-left: 82em;
+    bottom: 39em;
+    border-radius: 9px;
+    width: 130px;
+    height: 30px;
+    cursor: pointer;
+    position: relative;
+}
+
+#log {
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 12px;
+    display: flex;
+    font-size: 30px;
+}
+
+#log2 {
+    width: 530px;
+    bottom: 16em;
+    margin-left: 12px;
+    border-radius: 4px;
+    position: relative;
+}
+
+
+.Long {
+    border: 2px solid rgb(0, 0, 0);
+    margin-top: 27em;
+    margin-left: 12px;
+    margin-right: 12px;
+    height: 29em;
+    position: relative;
+    width: 83em;
+    border-radius: 12px;
+}
+
+.Long p {
+    width: 450px;
+    margin-left: 30em;
+    padding-top: 5em;
+    position: relative;
+    font-size: 20px;
+
+
+}
+
+.Long .net {
+    background: rgb(0, 0, 0);
+    color: red;
+    bottom: 36em;
+    margin-left: 43em;
+    border-radius: 9px;
+    width: 130px;
+    height: 30px;
+    border-radius: 9px;
+    cursor: pointer;
+    position: relative;
+}
+
+.Long .star {
+    background: rgb(14, 14, 48);
+    color: #fff;
+    bottom: 33em;
+    margin-left: 84em;
+    border-radius: 9px;
+    width: 130px;
+    height: 30px;
+    border-radius: 9px;
+    cursor: pointer;
+    position: relative;
+}
+
+.moke {
+    margin-top: 12px;
+    border: 2px solid black;
+    margin-left: 12px;
+    height: 27em;
+    margin-right: 12px;
+    border-radius: 12px;
+    width: 83em;
+}
+
+.guns {
+    font-size: 30px;
+    padding-top: 9px;
+    margin-left: 12px;
+}
+
+.moke p {
+    width: 540px;
+    margin-left: 30em;
+    margin-top: 2em;
+    position: relative;
+    font-size: 20px;
+}
+
+#log3 {
+    margin-left: 12px;
+    border-radius: 4px;
+    bottom: 16em;
+    position: relative;
+    width: 530px;
+    padding-top: 12px;
+    border-radius: 9px;
+}
+
+.moke .paramo {
+    color: #fff;
+    background: blue;
+    margin-left: 43em;
+    bottom: 7em;
+    position: relative;
+    border-radius: 9px;
+    width: 130px;
+    height: 30px;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.suss {
+    margin-top: 12px;
+    border: 2px solid black;
+    margin-left: 12px;
+    height: 36em;
+    margin-right: 12px;
+    border-radius: 12px;
+    width: 83em;
+
+}
+
+.cion {
+    margin-left: 12px;
+    padding-top: 4px;
+    font-size: 30px;
+}
+
+.suss p {
+    width: 500px;
+    margin-left: 29em;
+    margin-top: 3em;
+    font-size: 20px;
+}
+
+.suss #hbo {
+    width: 530px;
+    margin-left: 12px;
+    position: relative;
+    bottom: 19em;
+    border-radius: 9px;
+}
+
+.suss .max {
+    color: #fff;
+    background: #4B0082;
+    margin-left: 85em;
+    bottom: 39em;
+    position: relative;
+    border-radius: 9px;
+    width: 130px;
+    height: 30px;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.end {
+    margin-top: 12px;
+    border: 2px solid black;
+    margin-left: 12px;
+    height: 27em;
+    margin-right: 12px;
+    border-radius: 12px;
+    width: 83em;
+}
+
+.end .end2 {
+    margin-left: 12px;
+    padding-top: 12px;
+    font-size: 30px;
+}
+
+.end .endtw {
+    width: 530px;
+    border-radius: 9px;
+    margin-left: 12px;
+    position: relative;
+    bottom: 16em;
+}
+
+.end p {
+    width: 570px;
+    font-size: 20px;
+    margin-left: 29em;
+    position: relative;
+    margin-top: 50px;
+}
+
+.end .endth {
+    color: #fff;
+    background: blue;
+    margin-left: 47em;
+    bottom: 29em;
+    position: relative;
+    border-radius: 9px;
+    width: 130px;
+    height: 30px;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.west {
+    margin-top: 12px;
+    border: 2px solid black;
+    margin-left: 12px;
+    height: 39em;
+    margin-right: 12px;
+    border-radius: 12px;
+    width: 83em;
+}
+
+.west .westwood {
+    margin-left: 12px;
+    padding-top: 12px;
+    font-size: 30px;
+}
+
+.west .fotowest {
+    padding-top: 12px;
+    width: 300px;
+    margin-left: 12px;
+    position: relative;
+    bottom: 17em;
+}
+
+.west p {
+    position: relative;
+    width: 670px;
+    margin-left: 21em;
+    font-size: 20px;
+    padding-top: 6em;
+}
+
+.west .wodl {
+    color: #fff;
+    background: #4B0082;
+    margin-left: 85em;
+    bottom: 39em;
+    position: relative;
+    width: 130px;
+    height: 30px;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.oz {
+    margin-top: 12px;
+    border: 2px solid black;
+    margin-left: 12px;
+    height: 39em;
+    margin-right: 12px;
+    border-radius: 12px;
+    width: 83em;
+}
+
+.oz .ozak {
+    font-size: 30px;
+    margin-left: 12px;
+    padding-top: 12px;
+}
+
+.oz p {
+    font-size: 20px;
+    margin-left: 26em;
+    width: 590px;
+    padding-top: 70px;
+    position: relative;
+}
+
+.oz img {
+    width: 330px;
+    bottom: 17em;
+    margin-left: 12px;
+    position: relative;
+
+}
+
+.oz .flix {
+    background: rgb(0, 0, 0);
+    color: red;
+    bottom: 42em;
+    margin-left: 60em;
+    border-radius: 9px;
+    width: 130px;
+    height: 30px;
+    border-radius: 9px;
+    cursor: pointer;
+    position: relative;
+}
+
+.mc {
+    margin-top: 12px;
+    border: 2px solid black;
+    margin-left: 12px;
+    height: 35em;
+    margin-right: 12px;
+    border-radius: 12px;
+    width: 83em;
+}
+
+.mc .hat {
+    font-size: 30px;
+    margin-left: 12px;
+    padding-top: 4px;
+}
+
+.mc p {
+    padding-top: 9em;
+    position: relative;
+    font-size: 20px;
+    width: 550px;
+    margin-left: 29em;
+    bottom: 6em;
+}
+
+.mc img {
+    width: 530px;
+    margin-left: 12px;
+    position: relative;
+    bottom: 23em;
+}
+
+.mc button {
+    background: black;
+    color: red;
+    width: 130px;
+    height: 30px;
+    border-radius: 9px;
+    cursor: pointer;
+    bottom: 39em;
+    margin-left: 88em;
+    position: relative;
+}
+
+.mc button strong {
+    color: #fff;
+}
+
+.falls {
+    margin-top: 12px;
+    border: 2px solid black;
+    margin-left: 12px;
+    height: 27em;
+    margin-right: 12px;
+    border-radius: 12px;
+    width: 83em;
+}
+
+.falls .rut {
+    font-size: 30px;
+    padding-top: 12px;
+    margin-left: 12px;
+}
+
+.falls img {
+    width: 530px;
+    margin-left: 12px;
+    padding-top: 12px;
+    position: relative;
+    bottom: 14em;
+}
+
+.falls p {
+    position: relative;
+    font-size: 20px;
+    margin-left: 29em;
+    width: 530px;
+    margin-top: 31px;
+}
+
+.falls button {
+    background: black;
+    color: #ffd;
+    width: 130px;
+    height: 30px;
+    border-radius: 9px;
+    cursor: pointer;
+    bottom: 30em;
+    margin-left: 88em;
+    position: relative;
+}
+
+.nome {
+    margin-top: 12px;
+    border: 2px solid black;
+    margin-left: 12px;
+    height: 35em;
+    margin-right: 12px;
+    border-radius: 12px;
+    width: 83em;
+}
+
+.nome .ceu {
+    margin-left: 12px;
+    padding-top: 12px;
+    font-size: 30px;
+}
+
+.nome img {
+    width: 540px;
+    margin-left: 12px;
+    padding-top: 12px;
+    position: relative;
+    bottom: 18em;
+}
+
+.nome p {
+    font-size: 20px;
+    width: 540px;
+    margin-left: 29em;
+    position: relative;
+    margin-top: 4em;
+}
+
+.nome button {
+    background: rgb(14, 14, 48);
+    color: #fff;
+    bottom: 33em;
+    margin-left: 86em;
+    border-radius: 9px;
+    width: 130px;
+    height: 30px;
+    border-radius: 9px;
+    cursor: pointer;
+    position: relative;
+}
+
+footer {
+    position: relative;
+    margin-left: 26em;
+    font-size: 20px;
+}
+
+@media (max-width: 600px) {
+    h1 {
+        width: 900px;
+        text-align: center;
+        padding-left: 5em;
+    }
+}
