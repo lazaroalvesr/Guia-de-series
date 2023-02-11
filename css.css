@@ -529,12 +529,12 @@ footer {
         left: 5em;
     }
 
-    #dead button {
+     #dead button {
         right: 77em;
         top: 4em;
         font-size: 37px;
         width: 240px;
-        height: 40px;
+        height: 50px;
     }
 
     #dead h2 {
@@ -572,13 +572,50 @@ footer {
         top: 10em;
         font-size: 37px;
         width: 240px;
-        height: 40px;
+        height: 50px;
     }
-    .Long .star{
+
+    .Long .star {
         right: 72em;
         top: 9em;
         font-size: 37px;
         width: 240px;
-        height: 40px;
+        height: 50px;
+    }
+
+    .moke {
+        bottom: 25em;
+        height: 103em;
+        width: 50em;
+        left: 1px;
+        position: relative;
+    }
+
+    .moke .guns {
+        font-size: 37px;
+        position: relative;
+        text-align: center;
+    }
+
+    .moke #log3 {
+        left: 3em;
+        bottom: 80em;
+        width: 579px;
+        position: absolute;
+    }
+
+    .moke p {
+        font-size: 47px;
+        width: 780px;
+        position: relative;
+        right: 29.8em;
+        top: 11em;
+    }
+    .moke .paramo{
+        font-size: 37px;
+        width: 240px;
+        height: 50px;
+        right: 37em;
+        top: 2em;
     }
 }
