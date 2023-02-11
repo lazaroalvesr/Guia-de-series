@@ -20,6 +20,7 @@ h1 {
 }
 
 #dead {
+    top: 12em;
     margin-top: 19px;
     position: absolute;
     border: 2px solid black;
@@ -95,6 +96,7 @@ h1 {
     position: relative;
     width: 83em;
     border-radius: 12px;
+    top: 8em;
 }
 
 .Long p {
@@ -141,6 +143,9 @@ h1 {
     margin-right: 12px;
     border-radius: 12px;
     width: 83em;
+    top: 8em;
+    position: relative;
+
 }
 
 .guns {
@@ -503,7 +508,7 @@ footer {
 }
 
 @media (max-width: 600px) {
-     h1 {
+    h1 {
         width: 1000px;
         text-align: center;
         padding-left: 5em;
@@ -543,6 +548,7 @@ footer {
 
     #dead h2 {
         text-align: center;
+        font-size: 37px;
     }
 
     .Long {
