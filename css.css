@@ -631,4 +631,39 @@ footer {
         right: 37em;
         top: 1em;
     }
+    .suss {
+        bottom: 80em;
+        height: 108em;
+        width: 50em;
+        left: 51em;
+        position: relative;
+    }
+
+    .suss .cion {
+        text-align: center;
+        font-size: 37px;
+    }
+
+    .suss p{
+        font-size: 47px;
+        width: 780px;
+        position: relative;
+        right: 28.8em;
+        top: 8em;
+        position: relative;
+    }
+    .suss #hbo{
+        left: 3em;
+        bottom: 75em;
+        width: 579px;
+        position: absolute;
+    }
+    .suss .max{
+        font-size: 37px;
+        width: 240px;
+        height: 50px;
+        right: 79em;
+        top: 11em;
+        position: relative;
+    }
 }
