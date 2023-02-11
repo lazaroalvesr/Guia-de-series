@@ -145,6 +145,8 @@ h1 {
     width: 83em;
     top: 8em;
     position: relative;
+    top: 8em;
+
 
 }
 
@@ -193,6 +195,9 @@ h1 {
     margin-right: 12px;
     border-radius: 12px;
     width: 83em;
+    top: 8em;
+    position: relative;
+
 
 }
 
@@ -238,6 +243,9 @@ h1 {
     margin-right: 12px;
     border-radius: 12px;
     width: 83em;
+    top: 8em;
+    position: relative;
+
 }
 
 .end .end2 {
@@ -283,6 +291,8 @@ h1 {
     margin-right: 12px;
     border-radius: 12px;
     width: 83em;
+    top: 8em;
+    position: relative;
 }
 
 .west .westwood {
@@ -327,6 +337,9 @@ h1 {
     margin-right: 12px;
     border-radius: 12px;
     width: 83em;
+    position: relative;
+    top: 8em;
+
 }
 
 .oz .ozak {
@@ -372,6 +385,9 @@ h1 {
     margin-right: 12px;
     border-radius: 12px;
     width: 83em;
+    position: relative;
+    top: 8em;
+
 }
 
 .mc .hat {
@@ -420,6 +436,9 @@ h1 {
     margin-right: 12px;
     border-radius: 12px;
     width: 83em;
+    position: relative;
+    top: 8em;
+
 }
 
 .falls .rut {
@@ -464,6 +483,9 @@ h1 {
     margin-right: 12px;
     border-radius: 12px;
     width: 83em;
+    position: relative;
+    top: 8em;
+
 }
 
 .nome .ceu {
@@ -505,6 +527,8 @@ footer {
     position: relative;
     margin-left: 26em;
     font-size: 20px;
+    top: 7em;
+
 }
 
 @media (max-width: 600px) {
@@ -534,8 +558,8 @@ footer {
 
     #dead img {
         bottom: 65em;
-        width: 779px;        
-left: 1px;        
+        width: 779px;
+        left: 1px;
     }
 
     #dead button {
@@ -574,9 +598,10 @@ left: 1px;
 
     .Long #log2 {
         position: absolute;
-        width: 679px;        
         bottom: 73em;
         right: 69px;
+        width: 679px;
+
     }
 
     .Long .net {
@@ -597,7 +622,7 @@ left: 1px;
 
     .moke {
         bottom: 25em;
-        height: 113em;
+        height: 116em;
         width: 50em;
         left: 1px;
         position: relative;
@@ -611,7 +636,7 @@ left: 1px;
     }
 
     .moke #log3 {
-         left: 1px;
+        left: 1px;
         bottom: 82em;
         width: 779px;
         position: absolute;
@@ -632,12 +657,13 @@ left: 1px;
         right: 37em;
         top: 1em;
     }
+
     .suss {
-        bottom: 93em;
-        height: 114em;
+        top: 138em;
+        height: 113em;
         width: 50em;
         left: 51em;
-        position: relative;
+        position: absolute;
     }
 
     .suss .cion {
@@ -645,7 +671,7 @@ left: 1px;
         font-size: 37px;
     }
 
-    .suss p{
+    .suss p {
         font-size: 47px;
         width: 780px;
         position: relative;
@@ -653,18 +679,265 @@ left: 1px;
         top: 8em;
         position: relative;
     }
-    .suss #hbo{
+
+    .suss #hbo {
         left: 3em;
         bottom: 82em;
         width: 579px;
         position: absolute;
     }
-    .suss .max{
+
+    .suss .max {
         font-size: 37px;
         width: 240px;
         height: 50px;
         right: 79em;
         top: 11em;
         position: relative;
+    }
+
+    .end {
+        top: 252em;
+        height: 113em;
+        width: 50em;
+        bottom: 92em;
+        position: absolute;
+    }
+
+    .end .end2 {
+        font-size: 37px;
+        text-align: center;
+    }
+
+    .end .endtw {
+        width: 779px;
+        position: absolute;
+        bottom: 77em;
+    }
+
+    .end p {
+        font-size: 47px;
+        width: 780px;
+        position: relative;
+        right: 28.8em;
+        top: 12em;
+        position: relative;
+    }
+
+    .end .endth {
+        font-size: 37px;
+        width: 240px;
+        height: 50px;
+        right: 40em;
+        top: 18em;
+        position: relative;
+    }
+
+    .west {
+        height: 153em;
+        width: 50em;
+        bottom: 210em;
+        left: 51em;
+        position: absolute;
+        top: 254em;
+    }
+
+    .west .westwood {
+        font-size: 37px;
+        position: relative;
+        text-align: center;
+    }
+
+    .west .fotowest {
+        bottom: 72em;
+        width: 679px;
+        left: 36px;
+        position: relative;
+    }
+
+    .west p {
+        font-size: 47px;
+        width: 780px;
+        position: relative;
+        right: 20.3em;
+        top: 21em;
+        position: relative;
+    }
+
+    .west .wodl {
+        right: 77em;
+        top: 1em;
+        font-size: 37px;
+        width: 240px;
+        height: 50px;
+        position: relative;
+    }
+
+    .oz {
+        height: 163em;
+        width: 50em;
+        bottom: 245em;
+        position: absolute;
+        top: 368em;
+    }
+
+    .oz .ozak {
+        font-size: 37px;
+        position: relative;
+        text-align: center;
+    }
+
+    .oz img {
+        bottom: 62em;
+        width: 759px;
+        left: 6px;
+        position: relative;
+    }
+
+    .oz p {
+        font-size: 47px;
+        width: 780px;
+        position: relative;
+        right: 25.6em;
+        top: 26em;
+        position: relative;
+    }
+
+    .oz .flix {
+        right: 52em;
+        top: 6em;
+        font-size: 37px;
+        width: 240px;
+        height: 50px;
+        position: relative;
+    }
+
+    .mc {
+        height: 143em;
+        width: 50em;
+        bottom: 372em;
+        left: 51em;
+        position: absolute;
+        top: 409em;
+    }
+
+    .mc .hat {
+        font-size: 37px;
+        text-align: center;
+        position: relative;
+    }
+
+    .mc img {
+        bottom: 72em;
+        width: 759px;
+        left: 6px;
+        position: relative;
+    }
+
+    .mc p {
+        font-size: 47px;
+        width: 780px;
+        position: relative;
+        right: 28.8em;
+        top: 11em;
+        position: relative;
+    }
+
+    .mc button {
+        right: 82em;
+        top: 9em;
+        font-size: 37px;
+        width: 240px;
+        height: 50px;
+        position: relative;
+    }
+
+    .falls {
+        height: 123em;
+        width: 50em;
+        bottom: 388em;
+        left: 1px;
+        position: absolute;
+        top: 532em;
+    }
+
+    .falls .rut {
+        font-size: 37px;
+        text-align: center;
+        position: relative;
+    }
+
+    .falls img {
+        bottom: 48em;
+        width: 759px;
+        left: 6px;
+        position: relative;
+    }
+
+    .falls p {
+        font-size: 47px;
+        width: 780px;
+        position: relative;
+        right: 28.8em;
+        top: 13em;
+        position: relative;
+    }
+
+    .falls button {
+        right: 82em;
+        font-size: 37px;
+        width: 240px;
+        height: 50px;
+        position: relative;
+        top: 9em;
+    }
+
+    .nome {
+        height: 143em;
+        width: 50em;
+        bottom: 495em;
+        left: 51em;
+        position: absolute;
+        top: 554em;
+    }
+
+    .nome .ceu {
+        font-size: 37px;
+        text-align: center;
+        position: relative;
+    }
+
+    .nome img {
+        bottom: 58em;
+        width: 759px;
+        left: 6px;
+        position: relative;
+    }
+
+    .nome p {
+        font-size: 47px;
+        width: 780px;
+        position: relative;
+        right: 28.8em;
+        top: 13em;
+        position: relative;
+    }
+
+    .nome button {
+        right: 78em;
+        font-size: 37px;
+        width: 240px;
+        height: 50px;
+        position: relative;
+        top: 9em;
+    }
+
+    footer {
+        text-align: center;
+        right: 16em;
+        font-size: 58px;
+        position: relative;
+        bottom: 739em;
+        top: 130em;
     }
 }
