@@ -544,6 +544,7 @@ left: 1px;
         font-size: 37px;
         width: 240px;
         height: 50px;
+        position: relative;
     }
 
     #dead h2 {
