@@ -503,17 +503,21 @@ footer {
 }
 
 @media (max-width: 600px) {
-    h1 {
-        width: 900px;
+     h1 {
+        width: 1000px;
         text-align: center;
         padding-left: 5em;
     }
-    footer{
+
+    footer {
         width: 900px;
     }
+
     #dead {
         height: 103em;
         width: 50em;
+        top: 25em;
+        position: relative;
     }
 
     #dead p {
@@ -529,7 +533,7 @@ footer {
         left: 5em;
     }
 
-     #dead button {
+    #dead button {
         right: 77em;
         top: 4em;
         font-size: 37px;
@@ -545,7 +549,8 @@ footer {
         height: 103em;
         width: 50em;
         left: 51em;
-        bottom: 25.7em;
+        bottom: 338em;
+        position: absolute;
     }
 
     .Long #log {
@@ -589,6 +594,7 @@ footer {
         width: 50em;
         left: 1px;
         position: relative;
+        top: 26em;
     }
 
     .moke .guns {
@@ -611,7 +617,8 @@ footer {
         right: 29.8em;
         top: 8em;
     }
-    .moke .paramo{
+
+    .moke .paramo {
         font-size: 37px;
         width: 240px;
         height: 50px;
