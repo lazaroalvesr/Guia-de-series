@@ -697,11 +697,11 @@ footer {
     }
 
     .end {
-        top: 2546m;
+        top: 30em;
         height: 126em;
         width: 50em;
-        bottom: 93em;
-        position: absolute;
+        bottom: 94em;
+        position: relative;
     }
 
     .end .end2 {
