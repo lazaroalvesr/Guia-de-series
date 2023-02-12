@@ -13,6 +13,7 @@ h1 {
     font-size: 59px;
     color: #fff;
     text-decoration: underline;
+
 }
 
 #perfil {
@@ -38,7 +39,7 @@ h1 {
     font-size: 26px;
     margin-left: 12px;
     position: relative;
-        color: #fff;
+    color: #fff;
 
 }
 
@@ -56,13 +57,10 @@ h1 {
     bottom: 5em;
     position: relative;
     font-size: 20px;
-        color: #fff;
+    color: #fff;
 
 }
 
-.linha1 {
-    border: 2px solid rgb(5, 5, 4);
-}
 
 #dead button {
     color: #fff;
@@ -82,7 +80,7 @@ h1 {
     margin-left: 12px;
     display: flex;
     font-size: 30px;
-        color: #fff;
+    color: #fff;
 
 }
 
@@ -92,6 +90,7 @@ h1 {
     margin-left: 12px;
     border-radius: 4px;
     position: relative;
+    
 }
 
 
@@ -114,6 +113,7 @@ h1 {
     position: relative;
     font-size: 20px;
     color: #fff;
+
 
 
 }
@@ -162,19 +162,19 @@ h1 {
 .guns {
     font-size: 30px;
     padding-top: 9px;
-    margin-left: 12px;    
+    margin-left: 12px;
     color: #fff;
 
 }
 
 .moke p {
-        color: #fff;
-
     width: 540px;
     margin-left: 30em;
     margin-top: 2em;
     position: relative;
     font-size: 20px;
+    color: #fff;
+
 }
 
 #log3 {
@@ -217,8 +217,8 @@ h1 {
 .cion {
     margin-left: 12px;
     padding-top: 4px;
-    font-size: 30px;
-        color: #fff;
+    font-size: 30px;    
+    color: #fff;
 
 }
 
@@ -227,7 +227,7 @@ h1 {
     margin-left: 29em;
     margin-top: 3em;
     font-size: 20px;
-        color: #fff;
+    color: #fff;
 
 }
 
@@ -268,7 +268,7 @@ h1 {
 .end .end2 {
     margin-left: 12px;
     padding-top: 12px;
-    font-size: 30px;    
+    font-size: 30px;
     color: #fff;
 
 }
@@ -286,7 +286,7 @@ h1 {
     font-size: 20px;
     margin-left: 29em;
     position: relative;
-    margin-top: 50px;    
+    margin-top: 50px;
     color: #fff;
 
 }
@@ -320,7 +320,7 @@ h1 {
     margin-left: 12px;
     padding-top: 12px;
     font-size: 30px;
-        color: #fff;
+    color: #fff;
 
 }
 
@@ -338,7 +338,7 @@ h1 {
     margin-left: 21em;
     font-size: 20px;
     padding-top: 6em;
-        color: #fff;
+    color: #fff;
 
 }
 
@@ -370,19 +370,18 @@ h1 {
 .oz .ozak {
     font-size: 30px;
     margin-left: 12px;
-    padding-top: 12px;   
+    padding-top: 12px;
     color: #fff;
 
 }
 
 .oz p {
+    color: #fff;
     font-size: 20px;
     margin-left: 26em;
     width: 590px;
     padding-top: 70px;
     position: relative;
-        color: #fff;
-
 }
 
 .oz img {
@@ -422,20 +421,19 @@ h1 {
 .mc .hat {
     font-size: 30px;
     margin-left: 12px;
-    padding-top: 4px
-            color: #fff;
+    padding-top: 4px;
+    color: #fff;
 
 }
 
 .mc p {
+    color: #fff;
     padding-top: 9em;
     position: relative;
     font-size: 20px;
     width: 550px;
     margin-left: 29em;
     bottom: 6em;
-        color: #fff;
-
 }
 
 .mc img {
@@ -478,7 +476,7 @@ h1 {
     font-size: 30px;
     padding-top: 12px;
     margin-left: 12px;
-        color: #fff;
+    color: #fff;
 
 }
 
@@ -496,7 +494,7 @@ h1 {
     margin-left: 29em;
     width: 530px;
     margin-top: 31px;
-        color: #fff;
+    color: #fff;
 
 }
 
@@ -529,7 +527,7 @@ h1 {
     margin-left: 12px;
     padding-top: 12px;
     font-size: 30px;
-        color: #fff;
+    color: #fff;
 
 }
 
@@ -547,7 +545,7 @@ h1 {
     margin-left: 29em;
     position: relative;
     margin-top: 4em;
-        color: #fff;
+    color: #fff;
 
 }
 
@@ -571,6 +569,7 @@ footer {
     top: 7em;
     color: #fff;
 
+
 }
 
 @media (max-width: 600px) {
@@ -580,7 +579,7 @@ footer {
         padding-top: 17px;
         width: 1000px;
         text-align: center;
-        padding-left: 4em;
+        padding-left: 1em;
         position: relative;
     }
 
@@ -775,7 +774,15 @@ footer {
         position: relative;
     }
 
-     .west .westwood {
+    .west {
+        height: 153em;
+        width: 50em;
+        left: 51em;
+        position: absolute;
+        top: 256em;
+    }
+
+    .west .westwood {
         font-size: 37px;
         position: relative;
         text-align: center;
@@ -819,7 +826,7 @@ footer {
         text-align: center;
     }
 
-        .oz img {
+    .oz img {
         bottom: 64em;
         width: 759px;
         left: 6px;
@@ -841,6 +848,7 @@ footer {
         width: 240px;
         height: 50px;
         position: relative;
+    }
 
     .mc {
         height: 163em;
