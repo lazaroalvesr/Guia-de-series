@@ -38,6 +38,8 @@ h1 {
     font-size: 26px;
     margin-left: 12px;
     position: relative;
+        color: #fff;
+
 }
 
 #dead img {
@@ -54,6 +56,8 @@ h1 {
     bottom: 5em;
     position: relative;
     font-size: 20px;
+        color: #fff;
+
 }
 
 .linha1 {
@@ -78,6 +82,8 @@ h1 {
     margin-left: 12px;
     display: flex;
     font-size: 30px;
+        color: #fff;
+
 }
 
 #log2 {
@@ -107,6 +113,7 @@ h1 {
     padding-top: 5em;
     position: relative;
     font-size: 20px;
+    color: #fff;
 
 
 }
@@ -155,10 +162,14 @@ h1 {
 .guns {
     font-size: 30px;
     padding-top: 9px;
-    margin-left: 12px;
+    margin-left: 12px;    
+    color: #fff;
+
 }
 
 .moke p {
+        color: #fff;
+
     width: 540px;
     margin-left: 30em;
     margin-top: 2em;
@@ -207,6 +218,8 @@ h1 {
     margin-left: 12px;
     padding-top: 4px;
     font-size: 30px;
+        color: #fff;
+
 }
 
 .suss p {
@@ -214,6 +227,8 @@ h1 {
     margin-left: 29em;
     margin-top: 3em;
     font-size: 20px;
+        color: #fff;
+
 }
 
 .suss #hbo {
@@ -253,7 +268,9 @@ h1 {
 .end .end2 {
     margin-left: 12px;
     padding-top: 12px;
-    font-size: 30px;
+    font-size: 30px;    
+    color: #fff;
+
 }
 
 .end .endtw {
@@ -269,7 +286,9 @@ h1 {
     font-size: 20px;
     margin-left: 29em;
     position: relative;
-    margin-top: 50px;
+    margin-top: 50px;    
+    color: #fff;
+
 }
 
 .end .endth {
@@ -301,6 +320,8 @@ h1 {
     margin-left: 12px;
     padding-top: 12px;
     font-size: 30px;
+        color: #fff;
+
 }
 
 .west .fotowest {
@@ -317,6 +338,8 @@ h1 {
     margin-left: 21em;
     font-size: 20px;
     padding-top: 6em;
+        color: #fff;
+
 }
 
 .west .wodl {
@@ -347,7 +370,9 @@ h1 {
 .oz .ozak {
     font-size: 30px;
     margin-left: 12px;
-    padding-top: 12px;
+    padding-top: 12px;   
+    color: #fff;
+
 }
 
 .oz p {
@@ -356,6 +381,8 @@ h1 {
     width: 590px;
     padding-top: 70px;
     position: relative;
+        color: #fff;
+
 }
 
 .oz img {
@@ -395,7 +422,9 @@ h1 {
 .mc .hat {
     font-size: 30px;
     margin-left: 12px;
-    padding-top: 4px;
+    padding-top: 4px
+            color: #fff;
+
 }
 
 .mc p {
@@ -405,6 +434,8 @@ h1 {
     width: 550px;
     margin-left: 29em;
     bottom: 6em;
+        color: #fff;
+
 }
 
 .mc img {
@@ -447,6 +478,8 @@ h1 {
     font-size: 30px;
     padding-top: 12px;
     margin-left: 12px;
+        color: #fff;
+
 }
 
 .falls img {
@@ -463,6 +496,8 @@ h1 {
     margin-left: 29em;
     width: 530px;
     margin-top: 31px;
+        color: #fff;
+
 }
 
 .falls button {
@@ -494,6 +529,8 @@ h1 {
     margin-left: 12px;
     padding-top: 12px;
     font-size: 30px;
+        color: #fff;
+
 }
 
 .nome img {
@@ -510,6 +547,8 @@ h1 {
     margin-left: 29em;
     position: relative;
     margin-top: 4em;
+        color: #fff;
+
 }
 
 .nome button {
