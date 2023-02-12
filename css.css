@@ -775,22 +775,14 @@ footer {
         position: relative;
     }
 
-    .west {
-        height: 153em;
-        width: 50em;
-        left: 51em;
-        position: absolute;
-        top: 256em;
-    }
-
-    .west .westwood {
+     .west .westwood {
         font-size: 37px;
         position: relative;
         text-align: center;
     }
 
     .west .fotowest {
-        bottom: 72em;
+        bottom: 75em;
         width: 679px;
         left: 36px;
         position: relative;
@@ -801,12 +793,12 @@ footer {
         width: 780px;
         position: relative;
         right: 20.3em;
-        top: 21em;
+        top: 17em;
     }
 
     .west .wodl {
         right: 77em;
-        top: 1em;
+        bottom: 3em;
         font-size: 37px;
         width: 240px;
         height: 50px;
