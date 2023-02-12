@@ -575,7 +575,7 @@ footer {
 
 @media (max-width: 600px) {
     h1 {
-        font-size: 59px;
+        font-size: 79px;
         white-space: nowrap;      
         padding-top: 17px;
         width: 1000px;
@@ -819,8 +819,8 @@ footer {
         text-align: center;
     }
 
-    .oz img {
-        bottom: 62em;
+        .oz img {
+        bottom: 64em;
         width: 759px;
         left: 6px;
         position: relative;
@@ -831,17 +831,16 @@ footer {
         width: 780px;
         position: relative;
         right: 25.6em;
-        top: 26em;
+        top: 24em;
     }
 
     .oz .flix {
         right: 52em;
-        top: 6em;
+        top: 2em;
         font-size: 37px;
         width: 240px;
         height: 50px;
         position: relative;
-    }
 
     .mc {
         height: 163em;
