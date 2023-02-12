@@ -575,6 +575,9 @@ footer {
 
 @media (max-width: 600px) {
     h1 {
+          font-size: 59px;
+        white-space: nowrap;      
+        padding-top: 17px;
         width: 1000px;
         text-align: center;
         padding-left: 5em;
