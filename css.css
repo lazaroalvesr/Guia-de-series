@@ -974,11 +974,12 @@ footer {
     }
 
     footer {
-        text-align: center;
+       text-align: center;
         right: 16em;
         font-size: 58px;
         position: relative;
         bottom: 739em;
         top: 130em;
+        white-space: nowrap;   
     }
 }
