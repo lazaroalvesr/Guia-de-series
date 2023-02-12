@@ -697,7 +697,7 @@ footer {
     }
 
     .end {
-        top: 21em;
+        top: 19em;
         height: 126em;
         width: 50em;
         bottom: 94em;
@@ -734,11 +734,11 @@ footer {
     }
 
     .west {
-       height: 153em;
+      height: 153em;
         width: 50em;
         left: 51em;
         position: absolute;
-        top: 254em;
+        top: 256em;
     }
 
     .west .westwood {
