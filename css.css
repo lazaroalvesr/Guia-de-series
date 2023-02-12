@@ -11,6 +11,8 @@ body {
 h1 {
     text-align: center;
     font-size: 59px;
+    color: #fff;
+    text-decoration: underline;
 }
 
 #perfil {
@@ -23,7 +25,7 @@ h1 {
     top: 12em;
     margin-top: 19px;
     position: absolute;
-    border: 2px solid black;
+    border: 2px solid blue;
     padding-top: 9em;
     width: 83em;
     margin-left: 12px;
@@ -88,7 +90,7 @@ h1 {
 
 
 .Long {
-    border: 2px solid rgb(0, 0, 0);
+    border: 2px solid blue;
     margin-top: 27em;
     margin-left: 12px;
     margin-right: 12px;
@@ -137,7 +139,7 @@ h1 {
 
 .moke {
     margin-top: 12px;
-    border: 2px solid black;
+    border: 2px solid blue;
     margin-left: 12px;
     height: 27em;
     margin-right: 12px;
@@ -189,7 +191,7 @@ h1 {
 
 .suss {
     margin-top: 12px;
-    border: 2px solid black;
+    border: 2px solid blue;
     margin-left: 12px;
     height: 36em;
     margin-right: 12px;
@@ -237,7 +239,7 @@ h1 {
 
 .end {
     margin-top: 12px;
-    border: 2px solid black;
+    border: 2px solid blue;
     margin-left: 12px;
     height: 27em;
     margin-right: 12px;
@@ -285,7 +287,7 @@ h1 {
 
 .west {
     margin-top: 12px;
-    border: 2px solid black;
+    border: 2px solid blue;
     margin-left: 12px;
     height: 39em;
     margin-right: 12px;
@@ -331,7 +333,7 @@ h1 {
 
 .oz {
     margin-top: 12px;
-    border: 2px solid black;
+    border: 2px solid blue;
     margin-left: 12px;
     height: 39em;
     margin-right: 12px;
@@ -379,7 +381,7 @@ h1 {
 
 .mc {
     margin-top: 12px;
-    border: 2px solid black;
+    border: 2px solid blue;
     margin-left: 12px;
     height: 35em;
     margin-right: 12px;
@@ -430,7 +432,7 @@ h1 {
 
 .falls {
     margin-top: 12px;
-    border: 2px solid black;
+    border: 2px solid blue;
     margin-left: 12px;
     height: 27em;
     margin-right: 12px;
@@ -477,7 +479,7 @@ h1 {
 
 .nome {
     margin-top: 12px;
-    border: 2px solid black;
+    border: 2px solid blue;
     margin-left: 12px;
     height: 35em;
     margin-right: 12px;
@@ -528,6 +530,7 @@ footer {
     margin-left: 26em;
     font-size: 20px;
     top: 7em;
+    color: #fff;
 
 }
 
