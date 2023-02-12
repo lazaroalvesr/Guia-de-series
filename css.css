@@ -697,7 +697,7 @@ footer {
     }
 
     .end {
-        top: 22em;
+        top: 21em;
         height: 126em;
         width: 50em;
         bottom: 94em;
@@ -734,9 +734,8 @@ footer {
     }
 
     .west {
-        height: 153em;
+       height: 153em;
         width: 50em;
-        bottom: 210em;
         left: 51em;
         position: absolute;
         top: 254em;
