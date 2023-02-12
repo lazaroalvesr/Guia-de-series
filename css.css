@@ -575,20 +575,17 @@ footer {
 
 @media (max-width: 600px) {
     h1 {
-          font-size: 59px;
+        font-size: 59px;
         white-space: nowrap;      
         padding-top: 17px;
         width: 1000px;
         text-align: center;
-        padding-left: 5em;
-    }
-
-    footer {
-        width: 900px;
+        padding-left: 4em;
+        position: relative;
     }
 
     #dead {
-         height: 103em;
+        height: 103em;
         width: 50em;
         top: 27.9em;
         position: relative;
@@ -625,8 +622,8 @@ footer {
         height: 103em;
         width: 50em;
         left: 51em;
-        bottom: 338em;
         position: absolute;
+       
     }
 
     .Long #log {
@@ -667,11 +664,11 @@ footer {
 
     .moke {
         bottom: 25em;
-        height: 116em;
+        height: 117em;
         width: 50em;
         left: 1px;
         position: relative;
-        top: 21em;
+        top: 28.4em;
     }
 
     .moke .guns {
@@ -742,10 +739,10 @@ footer {
     }
 
     .end {
-        top: 20em;
-        height: 126em;
+        top: 28.9em;
+        height: 152em;
         width: 50em;
-        bottom: 94em;
+        bottom: 96em;
         position: relative;
     }
 
@@ -757,7 +754,7 @@ footer {
     .end .endtw {
         width: 779px;
         position: absolute;
-        bottom: 77em;
+        bottom: 120em;
     }
 
     .end p {
@@ -779,7 +776,7 @@ footer {
     }
 
     .west {
-      height: 153em;
+        height: 153em;
         width: 50em;
         left: 51em;
         position: absolute;
@@ -805,7 +802,6 @@ footer {
         position: relative;
         right: 20.3em;
         top: 21em;
-        position: relative;
     }
 
     .west .wodl {
@@ -822,7 +818,7 @@ footer {
         width: 50em;
         bottom: 245em;
         position: absolute;
-        top: 368em;
+        top: 409em;
     }
 
     .oz .ozak {
@@ -844,7 +840,6 @@ footer {
         position: relative;
         right: 25.6em;
         top: 26em;
-        position: relative;
     }
 
     .oz .flix {
@@ -857,12 +852,12 @@ footer {
     }
 
     .mc {
-        height: 143em;
+        height: 163em;
         width: 50em;
         bottom: 372em;
         left: 51em;
         position: absolute;
-        top: 409em;
+        top: 410em;
     }
 
     .mc .hat {
@@ -897,12 +892,12 @@ footer {
     }
 
     .falls {
-        height: 123em;
+        height: 143em;
         width: 50em;
         bottom: 388em;
         left: 1px;
         position: absolute;
-        top: 532em;
+        top: 573em;
     }
 
     .falls .rut {
@@ -942,7 +937,7 @@ footer {
         bottom: 495em;
         left: 51em;
         position: absolute;
-        top: 554em;
+        top: 573.6em;
     }
 
     .nome .ceu {
@@ -977,12 +972,11 @@ footer {
     }
 
     footer {
-       text-align: center;
-        right: 16em;
+        text-align: center;
+        margin-left: 8em;
         font-size: 58px;
-        position: relative;
-        bottom: 739em;
-        top: 130em;
-        white-space: nowrap;   
+        position: absolute;
+        white-space: nowrap; 
+        top: 198em;     
     }
 }
