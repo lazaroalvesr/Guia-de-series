@@ -580,6 +580,8 @@ footer {
         width: 1000px;
         text-align: center;
         position: relative;
+                padding-left: 13px;
+
     }
 
     #dead {
